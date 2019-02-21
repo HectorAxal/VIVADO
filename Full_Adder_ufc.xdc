@@ -1,4 +1,6 @@
 
+#PROPERTY OF AXTZAL
+
 #Hacemos la conexion con los switches del sistema
 set_property PACKAGE_PIN V17 [get_ports {ci}]
 	set_property IOSTANDARD LVCMOS33 [get_ports {ci}]
