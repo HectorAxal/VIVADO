@@ -1,7 +1,7 @@
 `timescale 1ns / 1ps
 //////////////////////////////////////////////////////////////////////////////////
-// Company: 
-// Engineer: 
+// Company: ITESO
+// Engineer: Axtzal
 // 
 // Create Date: 20.02.2019 10:06:30
 // Design Name: 
